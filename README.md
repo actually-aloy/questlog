@@ -98,7 +98,6 @@ Questlog کاملاً پرتابل است و نیازی به نصب ندارد.
 
 ## 📸 تصاویر
 
-
 | داشبورد اصلی | تنظیمات |
 | :---: | :---: |
 | <img src="screenshots/dashboard.png" width="400"> | <img src="screenshots/settings.png" width="400"> |
