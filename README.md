@@ -41,8 +41,6 @@ To backup or migrate your data, you have two options:
 
 ## 📸 Screenshots
 
-*(Make sure you have a `screenshots/` folder in your repo with your images inside it)*
-
 | Main Dashboard | Settings Panel |
 | :---: | :---: |
 | <img src="screenshots/dashboard.png" width="400"> | <img src="screenshots/settings.png" width="400"> |
@@ -100,7 +98,6 @@ Questlog کاملاً پرتابل است و نیازی به نصب ندارد.
 
 ## 📸 تصاویر
 
-*(برای نمایش تصاویر، باید پوشه‌ای به نام `screenshots/` در مخزن گیت‌هاب خود ایجاد کنید و عکس‌ها را داخل آن آپلود کنید)*
 
 | داشبورد اصلی | تنظیمات |
 | :---: | :---: |
