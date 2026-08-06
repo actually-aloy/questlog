@@ -40,7 +40,12 @@ To backup or migrate your data, you have two options:
 ---
 
 ## 📸 Screenshots
-*(I'll add screenshots here once I figure out how to host them on GitHub)*
+
+*(Make sure you have a `screenshots/` folder in your repo with your images inside it)*
+
+| Main Dashboard | Settings Panel |
+| :---: | :---: |
+| <img src="screenshots/dashboard.png" width="400"> | <img src="screenshots/settings.png" width="400"> |
 
 ---
 
@@ -94,7 +99,12 @@ Questlog کاملاً پرتابل است و نیازی به نصب ندارد.
 ---
 
 ## 📸 تصاویر
-*(به محض اینکه بفهمم چطور باید عکس‌ها رو روی گیت‌هاب آپلود کنم، اینجا اضافه می‌شوند)*
+
+*(برای نمایش تصاویر، باید پوشه‌ای به نام `screenshots/` در مخزن گیت‌هاب خود ایجاد کنید و عکس‌ها را داخل آن آپلود کنید)*
+
+| داشبورد اصلی | تنظیمات |
+| :---: | :---: |
+| <img src="screenshots/dashboard.png" width="400"> | <img src="screenshots/settings.png" width="400"> |
 
 ---
 
